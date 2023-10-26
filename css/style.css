@@ -223,3 +223,288 @@
     margin: 0 auto;
     margin-top: 32px;
 }
+
+/* AKedan chemiaaaaaa*/
+/* SECTION 5 */
+
+.section5-div{
+    max-width: 1440px;
+    height: 796px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 130px;
+}
+.section5-div-photo{
+    background-image: url(../images/Rectangle1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 554px;
+    height: 556px;
+
+
+}
+.section5-div-Text{
+    max-width: 456px;
+    height: 441px;  
+}
+.section5-div-Text h5{
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: #22C55E;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 18px;
+    width: 74px;
+    height: 22px;
+    text-align: center;
+    border-radius: 36px;
+    background-color: #DCFCE7;
+}
+.section5-div-Text h2{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: -2%;
+    font-family: 'Poppins', sans-serif;
+    color: #2A3342;
+    margin-bottom: 32px;
+}
+.section5-div-Text p{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    font-family: 'Poppins', sans-serif;
+    color: #556987;
+    margin-bottom: 25px;
+}
+.section5-div-button{
+    width: 128px;
+    height: 46px;
+    background-color: #22C55E;
+    color: #F0FDF4;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Poppins', sans-serif;
+    padding: 11px 18px;
+}
+.section5-div-button:hover{
+    background-color: aqua;
+}
+/* meore */
+.botton-box{ 
+    max-width: 1440px;
+    height: 796px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 68px;
+}
+.bottom-div-text{
+    width: 456px;
+    height: 441px;
+}
+.bottom-div-text h5{
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: #22C55E;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 18px;
+    width: 74px;
+    height: 22px;
+    text-align: center;
+    border-radius: 36px;
+    background-color: #DCFCE7;
+}
+.bottom-div-text h2{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: -2%;
+    font-family: 'Poppins', sans-serif;
+    color: #2A3342;
+    margin-bottom: 32px;
+}
+.bottom-div-text p{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    font-family: 'Poppins', sans-serif;
+    color: #556987;
+    margin-bottom: 25px;
+}
+
+.botttom-div-photo{
+    background-image: url(../images/Rectangle1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 584px;
+    height: 588px;
+}
+
+/* meore sekcia */
+.information{
+    max-width: 1440px;
+    height: 576px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 64px;
+}
+.information-text{
+    width: 919px;
+    height: 180px;
+    margin: 0 auto;
+    text-align: center;
+}
+.information-text h5{
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: #22C55E;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 16px;
+    width: 73px;
+    height: 22px;
+    background-color: #DCFCE7;
+    border-radius: 36px;
+    margin-left: 415px
+}
+.information-text h2{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: -2%;
+    font-family: 'Poppins', sans-serif;
+    color: #2A3342;
+    margin-bottom: 16px;
+}
+.information-text p{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    font-family: 'Poppins', sans-serif;
+    color: #556987;
+}
+/* dabla*/
+.information-list{
+    width: 1140px;
+    height: 162px;
+    display: flex;
+    margin-top: 60px;
+    gap: 32px;
+    text-align: center;
+    margin: 0 auto;
+}
+.information-little-box{
+    width: 261px;
+    height: 98px;
+}
+.information-little-box h2{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: -2%;
+    font-family: 'Poppins', sans-serif;
+    color: #22C55E;
+}
+.information-little-box p{
+   font-weight: 500;
+   font-size: 20px;
+   line-height: 30px;
+   font-family: 'Poppins', sans-serif;
+   color: #556987;
+}
+/* axali sekcia surati da boxebi*/
+.big-box{
+    background-color: #2A3342;
+    max-width: 1440px;
+    height: 932px;
+}
+/* kide axali sekcia*/
+.application-div{
+    max-width: 1440px;
+    height: 1003px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.application-div-text {
+    width: 977px;
+    height: 100px;
+    margin: 0 auto;
+    text-align: center;
+}
+.application-div-text h5{
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: #22C55E;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 16px;
+    width: 86px;
+    height: 22px;
+    background-color: #DCFCE7;
+    border-radius: 36px;
+    text-align: center;
+    margin-left: 425px;
+}
+.application-div-text h2{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: -2%;
+    font-family: 'Poppins', sans-serif;
+    color: #2A3342;
+}
+.application-image{
+    background-image: url(../images/PUT\ ARTWORK\ HERE.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 944.65px;
+    height: 525px;
+    margin: 0 auto;
+}
+.application-text-p{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+.application-text-buttons{
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+}
+.application-text-buttons h4{
+    width: 138px;
+    height: 56px;
+    background-color: #22C55E;
+    color: #F0FDF4;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    font-family: 'Poppins', sans-serif;
+    padding: 11px 18px;
+    border-radius: 8px;
+    border: 1px solid #6951FF0D;
+}
+.application-text-buttons h5{
+    width: 138px;
+    height: 56px;
+    background-color: #FFFFFF;
+    color: #333F51;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    font-family: 'Poppins', sans-serif;
+    padding: 11px 18px;
+    text-align: center;
+    border-radius: 8px;
+    border: 1px solid #6951FF0D;
+}
