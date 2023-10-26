@@ -497,8 +497,9 @@
 
 
 
-/* Nia gabunia  */
-/* Top box */
+/* AKedan chemiaaaaaa*/
+/* SECTION 5 */
+
 .section5-div{
     max-width: 1920px;
     height: 796px;
@@ -508,8 +509,13 @@
     gap: 130px;
 }
 .section5-div-photo{
+    background-image: url(../images/Rectangle1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
     width: 554px;
     height: 556px;
+
+
 }
 .section5-div-Text{
     max-width: 456px;
@@ -555,13 +561,11 @@
     line-height: 24px;
     font-family: 'Poppins', sans-serif;
     padding: 11px 18px;
-    transition: 1s;
 }
 .section5-div-button:hover{
     background-color: aqua;
-    transition: 1s;
 }
-/* Bottom-box */
+/* meore */
 .botton-box{ 
     max-width: 1920px;
     height: 796px;
@@ -606,12 +610,14 @@
 }
 
 .botttom-div-photo{
+    background-image: url(../images/Rectangle1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
     width: 584px;
     height: 588px;
 }
 
-/* Next Section */
-/* Top */
+/* meore sekcia */
 .information{
     max-width: 1920px;
     height: 576px;
@@ -656,7 +662,7 @@
     font-family: 'Poppins', sans-serif;
     color: #556987;
 }
-/* Bottom */
+/* dabla*/
 .information-list{
     width: 1140px;
     height: 162px;
@@ -685,116 +691,13 @@
    font-family: 'Poppins', sans-serif;
    color: #556987;
 }
-/* Next Section */
-/* Top */
+/* axali sekcia surati da boxebi*/
 .big-box{
     background-color: #2A3342;
     max-width: 1920px;
     height: 932px;
 }
-.top-box{
-    display: grid;
-    grid-template-columns: repeat(auto-fill, 554px);
-    column-gap: 32px;
-    margin-left: 150px;
-} 
-.left-box{
-    width: 554px;
-    height: 273px;
-    margin: auto;  
-}
-.left-box h5{
-    color:#14532D;
-    font-weight: 500;
-    font-size: 12px;
-    line-height: 18px;
-    font-family: 'Poppins', sans-serif;
-    width: 106px;
-    height: 22px;
-    text-align: center;
-    background-color: #DCFCE7;
-    border-radius: 36px;
-    margin-bottom: 17px;
-}
-.left-box h2{
-    font-weight: 700;
-    font-size: 48px;
-    line-height: 60px;
-    letter-spacing: -2%;
-    font-family: 'Poppins', sans-serif;
-    color: #FFFFFF;
-    margin-bottom: 24px;
-}
-.left-box p{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 30px;
-    font-family: 'Poppins', sans-serif;
-    color: #8896AB;
-}
-.right-box{
-    margin-top: 20px;
-    position: relative;
-    z-index: 1;
-}
-.caret-button{
-    width: 64px;
-    height: 64px;
-    border-radius: 50%;
-    background-color: #22c55ee1;
-    position: absolute;
-    z-index: 2;
-    top: 45%;
-    left: 35%;
-}
-.caret-button img {
-    margin-top: 35%;
-    margin-left: 40%;
-    color: #FFFFFF;
-}
-/* Bottom */
-.bottom-box{
-    display: grid;
-    grid-template-columns: repeat(auto-fit, 359px);
-    margin-top: 64px;
-    gap: 32px 32px;
-    margin-left: 150px;
-}
-.little-box{
-    width: 359px;
-    height: 174px;
-}
-.little-box h2{
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 30px;
-    font-family: 'Poppins', sans-serif;
-    color: #FFFFFF;
-    margin-bottom: 8px
-}
-.little-box p{
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 24px;
-    color: #8896AB;
-    font-family: 'Poppins', sans-serif;
-}
-.numbers{
-    background-color: #22C55E;
-    width: 48px;
-    height: 48px;
-    border-radius: 50%;
-    font-weight: 600;
-    font-size: 20px;
-    line-height: 30px;
-    letter-spacing: -2%;
-    color: #2A3342;
-    text-align: center;
-    padding-top: 9px;
-    font-family: 'Poppins', sans-serif;
-    margin-bottom: 16px;
-}
-/* Next section */
+/* kide axali sekcia*/
 .application-div{
     max-width: 1920px;
     height: 1003px;
@@ -833,19 +736,18 @@
     color: #2A3342;
 }
 .application-image{
+    background-image: url(../images/PUT\ ARTWORK\ HERE.png);
+    background-repeat: no-repeat;
+    background-size: cover;
     width: 944.65px;
     height: 525px;
-    margin-left: 20px;
-    border: 20px solid #D5DAE1;
+    margin: 0 auto;
 }
 .application-text-p{
     font-weight: 500;
     font-size: 20px;
     line-height: 30px;
     font-family: 'Poppins', sans-serif;
-    width: 919px;
-    text-align: center;
-    margin-top: 40px;
 }
 .application-text-buttons{
     display: flex;
@@ -864,7 +766,6 @@
     padding: 11px 18px;
     border-radius: 8px;
     border: 1px solid #6951FF0D;
-    transition: 1s;
 }
 .application-text-buttons h5{
     width: 138px;
@@ -879,128 +780,4 @@
     text-align: center;
     border-radius: 8px;
     border: 1px solid #6951FF0D;
-    transition: 1s;
-}
-.application-text-buttons h4:hover{
-    background-color: aqua;
-    transition: 1s;
-}
-.application-text-buttons h5:hover{
-    background-color: aqua;
-    transition: 1s;
-}
-/* Last section */
-.last-section-div{ 
-    max-width: 1440px;
-    height: 650px;
-}
-.section-div-text{
-    padding-top: 88px;
-}
-.section-div-text h5{
-    font-weight: 500;
-    font-size: 12px;
-    line-height: 18px;
-    color: #22C55E;
-    font-family: 'Poppins', sans-serif;
-    width: 75px;
-    height: 22px;
-    background-color: #DCFCE7;
-    border-radius: 36px;
-    padding: 2px 8px;
-    margin: 0 auto;
-}
-.section-div-text h2{
-    font-weight: 700;
-    font-size: 48px;
-    line-height: 60px;
-    letter-spacing: -2%;
-    font-family: 'Poppins', sans-serif;
-    color: #2A3342;
-    text-align: center;
-    margin-top: 16px;
-    margin-bottom: 16px;
-}
-.section-div-text p{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 30px;
-    font-family: 'Poppins', sans-serif;
-    width: 919px;
-    text-align: center;
-    margin-left: 200px;
-
-}
-.contact-info{ 
-    max-width: 1043px;
-    display: flex;
-    flex-direction: row;
-    margin: 0 auto;
-    justify-content: space-between;
-    margin-top: 64px;
-}
-.contact-info-icons{
-    background-color: #22C55E;
-    width: 48px;
-    height: 48px;
-    border-radius: 40px;
-    margin: 0 auto;
-    padding: 10px 10px;
-
-}
-.contacts{
-    width: 261px;
-    height: 148px;
-    padding-top: 20px;
-    text-align: center;
-
-}
-.contacts h2{
-    font-weight: 700;
-    font-size: 30px;
-    line-height: 38px;
-    font-family: 'Poppins', sans-serif;
-    color: #2A3342;
-    margin-top: 10px;
-    margin-bottom: 8px;
-}
-/* FOOTER */
-.footer{
-    background-color: #2A3342;
-    height: 400px;
-}
-.footer-div-box{
-    width: 829px;
-    height: 100px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: auto;
-}
-.footer-logo{
-    margin-top: 80px;
-}
-.footer-infos{
-    width: 829px;
-    display: flex;
-    justify-content: space-between;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 30px;
-    font-family: 'Poppins', sans-serif;
-    color: #8896AB;
-    margin-top: 80px;
-}
-.footer-border-line{
-    border: 1px solid #333F51;
-    margin-top: 227px;
-}
-.footer-copyright{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 30px;
-    font-family: 'Poppins', sans-serif;
-    color: #8896AB;
-    text-align: center;
-    margin-top: 20px;
 }
