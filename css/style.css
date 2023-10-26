@@ -500,7 +500,7 @@
 /* Nia gabunia  */
 /* Top box */
 .section5-div{
-    max-width: 1920px;
+    max-width: 1440px;
     height: 796px;
     display: flex;
     justify-content: center;
@@ -563,7 +563,7 @@
 }
 /* Bottom-box */
 .botton-box{ 
-    max-width: 1920px;
+    max-width: 1440px;
     height: 796px;
     display: flex;
     justify-content: center;
@@ -613,7 +613,7 @@
 /* Next Section */
 /* Top */
 .information{
-    max-width: 1920px;
+    max-width: 1440px;
     height: 576px;
     display: flex;
     justify-content: center;
